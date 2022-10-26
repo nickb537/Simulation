@@ -1,0 +1,11 @@
+name: sim-environment
+
+dependencies:
+  - ipython
+  - matplotlib
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - scipy
+  - numpy
